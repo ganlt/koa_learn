@@ -9,4 +9,4 @@ app.use(async (ctx, next) => {
 })
 
 app.listen(3000)
-console.log('app startes at port 3000..')``
+console.log('app startes at port 3000..')
